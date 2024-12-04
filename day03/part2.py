@@ -1,5 +1,4 @@
 import re
-from functools import reduce
 from util.io import readLines
 
 def eval(statement) -> int:
